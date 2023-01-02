@@ -1,0 +1,9 @@
+node_modules
+logs
+images
+.env
+testUploadResults.txt
+uploadToSocials.ps1
+archive
+test.js
+jsconfig.json
